@@ -1,0 +1,2 @@
+10834128,Tiger,mammal,4,1
+12314663,Penguin,marine bird,2,1
